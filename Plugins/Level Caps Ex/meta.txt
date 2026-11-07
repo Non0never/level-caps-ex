@@ -1,0 +1,5 @@
+Name       = Level Caps Ex
+Version = 2.7.2
+Essentials = 21.1,21.99,22
+Website      = https://github.com/Non0never/level-caps-ex
+Credits    = Nononever, Golisopod User, Shattered Crowns Team
